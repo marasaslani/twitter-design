@@ -1,0 +1,185 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+}
+
+#twitterbig{
+    /* Screenshot_2021-02-25 asdTwitter İşte olup bitenler 1 */
+
+position: absolute;
+width: 1050px;
+height: 868px;
+left: 0px;
+top: 0px;
+}
+
+#eposta{
+    /* Rectangle 1 */
+    position: absolute;
+    width: 209px;
+    height: 50px;
+    left: 1081px;
+    top: 22px;
+    padding-left: 10px;
+    background: #000000;
+    border: 0.5px solid #178FD2;
+    box-sizing: border-box;
+    border-radius: 4px;
+    font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 14px;
+
+/* identical to box height */
+
+color: #436677;
+}
+
+#sifre{
+    /* Rectangle 2 */
+
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    width: 209px;
+    height: 50px;
+    left: 1306px;
+    top: 22px;
+    background: #000000;
+    border: 0.5px solid #1BA3F1;
+    box-sizing: border-box;
+    border-radius: 4px;
+    font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 14px;
+padding-left: 10px;
+color: #486D7F;
+}
+
+#giris{
+    position: absolute;
+    width: 128px;
+    height: 50px;
+    left: 1531px;
+    top: 22px;
+    font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 14px;
+cursor: pointer;
+/* identical to box height */
+
+color: #178FD2;
+    background: #000000;
+    border: 0.5px solid #1BA3F1;
+    box-sizing: border-box;
+    border-radius: 50px;
+}
+
+#sifremiunuttum{
+    /* Şifreni mi unuttun? */
+
+position: absolute;
+width: 119px;
+height: 13px;
+left: 1318px;
+top: 74px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+font-family: Arial, Helvetica, sans-serif;
+color: #178FD2;
+}
+
+#twittericon{
+    /* twitter(2) 1 */
+
+position: absolute;
+width: 42px;
+height: 42px;
+left: 1089px;
+top: 180px;
+}
+h1{
+    /* ŞU ANDA OLUP BİTENLER */
+
+position: absolute;
+width: 499px;
+height: 164px;
+left: 1089px;
+top: 270px;
+
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: bolder;
+font-size: 70px;
+line-height: 82px;
+
+color: #FFFFFF;
+}
+
+h2{
+    /* Twitter’a bugün katıl. */
+
+position: absolute;
+width: 369px;
+height: 47px;
+left: 1089px;
+top: 470px;
+
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: bolder;
+font-size: 37px;
+line-height: 47px;
+
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+#kaydol{
+    /* Rectangle 6 */
+
+position: absolute;
+width: 381px;
+height: 51px;
+left: 1089px;
+top: 600px;
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 23px;
+border: none;
+color: #FFFFFF;
+background: #1DA1F3;
+border-radius: 30px;
+cursor: pointer;
+}
+
+#girisyap1{
+    /* Rectangle 7 */
+
+position: absolute;
+width: 381px;
+height: 51px;
+left: 1089px;
+top: 667px;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 23px;
+cursor: pointer;
+color: #1DA1F3;
+
+border: none;
+background: #000000;
+border: 1px solid #1DA1F3;
+box-sizing: border-box;
+border-radius: 30px;
+}
+
